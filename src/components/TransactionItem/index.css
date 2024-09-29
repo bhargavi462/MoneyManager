@@ -1,0 +1,38 @@
+/* Write your CSS here */
+.list-item {
+  list-style-type: none;
+  display: flex;
+  border: 1px solid #d7dfe9;
+  width: 95%;
+  height: 40px;
+  align-items: center;
+  padding-left: 10px;
+}
+
+.list-item-para {
+  margin-right: 50px;
+  margin-bottom: 10px;
+}
+
+.custom-btn-delete {
+  height: 30px;
+  width: 40px;
+  border: none;
+  background-color: transparent;
+  margin-top: 6px;
+}
+
+.img-delete {
+  height: 20px;
+}
+
+/* @media (max-width: 576px) {
+  .list-item-para {
+    margin-right: 10px;
+    margin-bottom: 10px;
+  }
+
+  .list-item{
+    width
+  }
+} */
